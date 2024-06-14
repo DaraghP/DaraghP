@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daragh Prizeman
 - 👀 I’m interested in Software Development | Python | React | Javascript and lots more!
-- 🎓 I recently graduated with a 1:1 First Class Honours in Bsc. Computer Applications (Sft Eng.) from Dublin City University
+- 🎓 I recently graduated with a 1:1 First Class Honours in __Bsc. Computer Applications (Sft Eng.)__ from Dublin City University
 - 📨 Feel free to reach out via LinkedIn: https://www.linkedin.com/in/daragh-prizeman/
 
 <!---
